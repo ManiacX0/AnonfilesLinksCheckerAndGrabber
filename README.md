@@ -6,4 +6,6 @@ Generate or load anonfiles links to check which links are dead or alive.
 # Contact
 Telegram: @ManiacX0 | Telegram server: t.me/x0tools
 
+Discord: ManiacX0#6116
+
 Cracked.to: https://cracked.to/M4niac
